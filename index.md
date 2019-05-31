@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to UltiQuest
 
-You can use the [editor on GitHub](https://github.com/hxbworld/UltiQuest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is a new generation of text-based RPGs. UltiQuest is based on [this](https://finalrealm.weebly.com/).
+UltiQuest will have everything a regular open-world RPG would have; trainable skills, a full economy system (banking, gambling, loans), diseases, a random (but level based) adventure and dungeon system for high-risk, high-reward loot, magic and combat, save states (with optional password protection), and even a time system.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## But.. when?
 
-### Markdown
+Right now we are in the very early stages of development, however this Github repository will be updated frequently; we want to be completely transparent with our developmental progress. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a huge undertaking, and will probably take a while before there is a working public beta release. 
 
-```markdown
-Syntax highlighted code block
+## Compatability
 
-# Header 1
-## Header 2
-### Header 3
+UltiQuest will be written entirely in DOS, on a Windows 10 machine, so we recommend using Windows 10 if you're playing. However, this is not to say that it will not work on earlier versions of Windows; we use very simple strings to remove complexity on our developers and to increase compatibility as much as possible.
 
-- Bulleted
-- List
+## Linux?
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hxbworld/UltiQuest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In short, no. In length.. maybe. It really depends on how much interest is actually gathered for the project. We're doing this completely for free, it is a side project for most of us, and we simply don't have the resources currently to develop UltiQuest for Linux (or Mac). Eventually I would like to make this project cross-platform, however this is a long ways off and may never actually happen.
